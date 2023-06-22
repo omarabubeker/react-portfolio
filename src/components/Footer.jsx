@@ -57,7 +57,7 @@ const footerdata = [
     {
         id:2,
         style: {backgroundColor: '#ffffff'},
-        href: "https://se.linkedin.com/",
+        href: "https://www.linkedin.com/in/omar-abubeker/",
         icon: <FaLinkedinIn style={iconStyles} />,
     },
 

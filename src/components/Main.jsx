@@ -267,14 +267,14 @@ const icondata = [
   {
     id: 2,
     style: { backgroundColor: "#ffffff" },
-    href: "https://se.linkedin.com/",
+    href: "https://www.linkedin.com/in/omar-abubeker/",
     icon: <FaLinkedinIn style={iconStyles} />,
   },
 
   {
     id: 3,
     style: { backgroundColor: "#ffffff" },
-    href: "https://se.linkedin.com/",
+    href: "https://github.com/omarabubeker/",
     icon: <FaGithub style={iconStyles} />,
   },
 ];
